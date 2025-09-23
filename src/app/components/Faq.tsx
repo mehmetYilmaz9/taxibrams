@@ -10,7 +10,7 @@ type FAQItem = {
 
 const faqData: FAQItem[] = [
   { question: "Quels types de trajets propose Taxi Bram’s ?", answer: "Transferts aéroports, gares, trajets toutes distances, services personnalisés." },
-  { question: "Comment réserver un taxi ?", answer: "Vous pouvez appeler directement Taxi Bram’s au 06 69 53 24 86 ou réserver via WhatsApp." },
+  { question: "Comment réserver un taxi ?", answer: "Vous pouvez appeler directement Taxi Bram’s au +33 7 86 34 37 02 ou réserver via WhatsApp." },
   { question: "Est-ce que vous êtes disponibles 24h/24 ?", answer: "Oui, service disponible 24h/24 et 7j/7." },
   { question: "Proposez-vous un taxi conventionné CPAM ?", answer: "Oui, pour vos rendez-vous médicaux." },
 ];
